@@ -8,7 +8,7 @@
         "64bit": {
             "url": "https://github.com/Nriver/trilium-translation/releases/download/v0.53.2_20220713/trilium-cn-windows-x64.zip",
             "hash": "84C10CB59F22AE248428D943997985058233130F4B4CBEDF62E64D00A23506C3",
-            "extract_dir": "trilium-cn-windows-x64"
+            "extract_dir": "trilium-windows-x64"
         }
     },
     "shortcuts": [
